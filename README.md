@@ -24,3 +24,5 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+
+[![Build Status](https://dev.azure.com/myjswork/admin/_apis/build/status/Build%20Sharepoint%20Framework?branchName=master)](https://dev.azure.com/myjswork/admin/_build/latest?definitionId=3&branchName=master)
